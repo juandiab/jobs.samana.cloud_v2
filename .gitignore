@@ -1,0 +1,20 @@
+# Ignore node_modules and vendor directories
+node_modules/
+vendor/
+mysql_data/
+.env
+
+# OS-specific files
+.DS_Store
+
+# Composer
+composer.lock
+composer.phar
+
+# Logs and temporary files
+logs/
+tmp/
+*.log
+*.cache
+*.tmp
+
